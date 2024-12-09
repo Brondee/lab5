@@ -28,3 +28,5 @@ git flow feature start task-managment
 После чего завершил релиз и объединил его с ветками "develop" и "main" и создал hotfix и объединил его с ветками "develop" и "main".
 <img width="562" alt="image" src="https://github.com/user-attachments/assets/329651f3-7e15-4497-ab78-22ca2577a17c">
 <img width="471" alt="image" src="https://github.com/user-attachments/assets/022cb6b8-6743-4c32-9924-08009c7b96e6">
+
+В конце отправил все изменения на удаленный репозиторий
